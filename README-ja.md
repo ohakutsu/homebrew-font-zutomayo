@@ -2,15 +2,15 @@
 
 [日本語](/README-ja.md) | [English](/README.md)
 
-Unofficial Homebrew Tap for [ZUTOMAYO](https://zutomayo.net/)'s [original font](https://zutomayo.net/font/).
+[ずっと真夜中でいいのに。](https://zutomayo.net/)の[オリジナル文字のフォント](https://zutomayo.net/font/)の非公式 Homebrew Tap です。
 
-## Usage
+## 使い方
 
 ```
 $ brew tap ohakutsu/font-zutomayo
 $ brew install --cask font-zutomayo
 ```
 
-## License
+## ライセンス
 
 [MIT License](/LICENSE)
